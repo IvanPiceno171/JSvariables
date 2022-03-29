@@ -58,7 +58,7 @@ const myAnswerForExercise10 = "cabo";
 // Exercise 11. What is the data type of the value stored in 'product',
 // place your answer in the quotes below:
 
-const myAnswerForExercise11 = "";
+const myAnswerForExercise11 = "number";
 
 // Exercise 12. What do you think the value of emptyVariable is?
 // Place your answer below:
@@ -83,10 +83,10 @@ const myAnswerForExercise14 = "RnD";
 const myAnswerForExercise15 = "R2D2";
 
 // Exercise 16 What is the value of A * B
-const myAnswerForExercise16 = "R1";
+const myAnswerForExercise16 = "NaN";
 
 // Exercise 17 What is the value of true || false
-const myAnswerForExercise17 = "boolean";
+const myAnswerForExercise17 = "true";
 
 // Exercise 18 What is the value of 1 === "1"
 const myAnswerForExercise18 = "false";
@@ -101,7 +101,7 @@ const myAnswerForExercise20 = "false";
 const myAnswerForExercise21 = "true";
 
 // Exercise 22 What is the value of 2 < 1 < 3
-const myAnswerForExercise22 = "false";
+const myAnswerForExercise22 = "true";
 
 // Congrats, you made it to the end!
 // Did you find this easy or hard? If you used references, which ones helped you?
